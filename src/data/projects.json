@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Forecasting System ",
+        "imageSrc": "projects/project.png",
+        "description": "Developed order prediction and customer segmentation models using artificial neural networks. Utilized a FeedForward Neural Network and YOLO for demand forecasting.",
+        "skills": ["Python", "ANN", "Object Detection"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/LeylaSkk/PGS-Forecasting-System.git"
+      },
+    {
+        "title": "Intrusion Detection System",
+        "imageSrc": "projects/project.png",
+        "description": "Developed an Intrusion Detection System (IDS) using GMMs for anomaly detection, achieving high accuracy on the NSL dataset with Decision Tree and KNN.",
+        "skills": ["Python", "Machine Learning"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/LeylaSkk/NSL-KDD-Data-Analysis.git"
+      },
+      {
+        "title": "Object Detection Using Mask R-CNN",
+        "imageSrc": "projects/project.png",
+        "description": "Optimizing object detection in optical remote sensing images using Adaptive Mask R-CNN and advanced training techniques for improved accuracy.",
+        "skills": ["Deep Learning ", "Transfer Learning", "Data Augmentation"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/LeylaSkk/MaskRCNN.git"
+      }
+      
+  ]
